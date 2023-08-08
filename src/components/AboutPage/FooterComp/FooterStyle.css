@@ -1,0 +1,153 @@
+footer {
+  text-align: center;
+  background: #457fca90;
+}
+
+#dark footer {
+  background-color: #031f25;
+}
+
+#dark .fab {
+  background-color: rgba(255, 255, 255, 0.2);
+}
+
+.footer-darker {
+  text-align: center;
+  background: #031f25;
+}
+
+.logo img {
+  width: 100px;
+}
+
+.footer-contact ul {
+  list-style: none;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-top: 20px;
+}
+
+.footer-contact ul li {
+  margin-right: 20px;
+}
+
+.fas {
+  color: rgba(255, 255, 255, 0.9);
+}
+
+.fas,
+.footer-contact {
+  font-size: 18px;
+}
+
+.darker-container-wrapper {
+  background: #5286c990;
+}
+
+#dark .darker-container-wrapper {
+  background-color: #01181d;
+}
+
+.darked-container-wrapper {
+  background: #01181d;
+}
+
+.darker-container-wrapper p {
+  margin: 0px;
+  padding: 0px;
+  color: white;
+}
+.rights {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.social {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+@media (max-width: 947px) {
+  .social {
+    margin-top: 20px;
+  }
+
+  .fas {
+    width: 40px;
+    font-size: 16px;
+  }
+
+  .footer-contact li {
+    margin-right: unset !important;
+    margin-bottom: 10px;
+    display: flex;
+    justify-content: space-between;
+  }
+
+  .footer-contact ul {
+    display: grid;
+    margin: 0px;
+    padding: 0px;
+  }
+
+  footer {
+    scroll-snap-align: start !important;
+    height: 100vh !important;
+  }
+  .footer-inf {
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+  }
+  .logo {
+    flex: 1;
+  }
+
+  .footer-container-wrapper {
+    padding: 30px;
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+  }
+}
+
+.underneath-text {
+  color: white;
+}
+
+.social-wrapper ul {
+  margin: 0px;
+  padding: 0px;
+  list-style: none;
+  display: flex;
+  justify-content: flex-end;
+}
+
+.fab {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 42px;
+  width: 42px;
+  line-height: 42px;
+  background-color: #457fca90;
+  border-radius: 50%;
+  color: rgba(255, 255, 255, 0.5);
+  margin-left: 8px;
+  margin-right: 8px;
+  transition-duration: 200ms;
+}
+
+.fab:hover {
+  background-color: #457fca;
+  color: white;
+}
+
+#dark .fab:hover {
+  transition-duration: 200ms;
+  background-color: white;
+  color: black;
+}

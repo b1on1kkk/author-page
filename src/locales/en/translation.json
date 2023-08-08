@@ -1,0 +1,55 @@
+{
+  "header": {
+    "main": "Home",
+    "about_me": "About me"
+  },
+  "about": {
+    "about_me": "About me",
+    "title_text": "I'm Alex",
+    "programming_rank": "Full-stack developer",
+    "download": "Download my resume",
+    "contact": "Contact me"
+  },
+  "more_about": {
+    "about_title": "Fontend & Backend Developer Based In Belarus",
+    "about_text": "I crazy about coding and everything that connects with it. Experiment with modern technologies and learn them easly. Determined person that will get everything and therefore can deal with all problems that my costumers have",
+    "name": "Name",
+    "from": "from",
+    "phone_number": "Phone",
+    "name_name": "Alexander Sinyak",
+    "country": "Belarus, Minsk",
+    "follow": "Follow Me On:"
+  },
+  "offers": {
+    "offers_title": "WHAT CAN I OFFER YOU",
+    "first_title": "Web Development",
+    "second_title": "Data Parsers",
+    "third_title": "Immediate help with project",
+    "first_about": "Responsive and modern designs using React JS technology",
+    "second_about": "Want to collect information from website and use this data for your projects but don't how to do it? I'll do it in few hours!",
+    "third_about": "Can help you with HTML, CSS, JavaSript, TypeScript, React JS, MySQL DataBase and ChatGPT"
+  },
+  "skills": {
+    "education": "Education",
+    "career": "Career",
+    "skills": "Skills"
+  },
+  "mobile_skills": {
+    "mobile_skills_text": "I specialize in web-development, passionate about useful and usefriednly UI interfaces, responsible for my work and trying to impress customers with my products"
+  },
+  "more_about_block": {
+    "greeting_block": "About me",
+    "routing": {
+      "home": "Home",
+      "about": "About me"
+    },
+    "more_about_title": "A Few Words About Me",
+    "more_about_me": "Hey, I'm Alex! I'm a fullstack-developer. My coding journey started from C++, I know that this language is not a peace of cake as first programming language, but hours of practicing payed off: with C++ knowledge I learning Python, TypeScript, JavaScript easier cause I underestood basic concepts of low-level programming languages. Nowadays I'm improving my JS (TypeScript), CSS skills and trying new libraries (ReactJS). Frontend development isn't my last point in programming career. Next step is Swift."
+  },
+  "get_in_touch_block": {
+    "get_in_touch_title": "Let's Start Working Together!"
+  },
+  "location_block": {
+    "location": "Belarus, Minsk"
+  }
+}
