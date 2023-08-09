@@ -6,12 +6,16 @@ import "../../../index.css";
 
 import image from "../../../pictures/logos/logo-black-fotor-bg-remover-2023060722554.png";
 
+import { useTranslation } from "react-i18next";
+
 // width setter
 import { getCurrentDimension } from "../NavBar/utilities/ScrollDetect";
 import { Link, NavLink } from "react-router-dom";
 //
 
 export default function ModalMobWindow({ openStatus }) {
+  const [t] = useTranslation("global");
+
   const [screenSize, setScreenSize] = useState(getCurrentDimension());
   const [modalBtnsStyle, setModalBtnsStyle] = useState(false);
 
@@ -73,7 +77,7 @@ export default function ModalMobWindow({ openStatus }) {
                   : "modal-window-btn"
               }
             >
-              Home
+              {t("more_about_block.routing.home")}
             </div>
           </NavLink>
 
@@ -85,7 +89,7 @@ export default function ModalMobWindow({ openStatus }) {
                   : "modal-window-btn"
               }
             >
-              About me
+              {t("more_about_block.routing.about")}
             </div>
           </NavLink>
         </div>
