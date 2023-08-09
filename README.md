@@ -41,4 +41,4 @@ You don't have to ever use `eject`. The curated feature set is suitable for smal
 
 
 Link to uploaded site:
-[https://portfolio-web-page-production.up.railway.app/]([http://localhost:3000](https://portfolio-web-page-production.up.railway.app/)https://portfolio-web-page-production.up.railway.app/)
+[Working here]([https://portfolio-web-page-production.up.railway.app/])
