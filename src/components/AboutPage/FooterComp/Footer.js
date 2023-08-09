@@ -22,7 +22,7 @@ export default function Footer() {
               <li>
                 <span className="fas fa-phone me-2"></span>
                 <span className="underneath-text">
-                  <a href="tel:29-838-87-45" style={{ fontWeight: 500 }}>
+                  <a href="tel:+375 29-838-87-45" style={{ fontWeight: 500 }}>
                     +375 (29) 838-87-45
                   </a>
                 </span>
