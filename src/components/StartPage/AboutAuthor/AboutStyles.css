@@ -39,6 +39,7 @@
   text-align: center;
 }
 
+#dark .biography-about-data-ditailed-info p a,
 #dark .biography-about-data-ditailed-info p,
 #dark .biography-text-about,
 #dark .biography-title {
@@ -102,6 +103,7 @@
   min-width: 60px;
 }
 
+.biography-about-data-ditailed-info p a,
 .biography-about-data-ditailed-info p {
   display: inline-block;
   margin: 0;

@@ -21,11 +21,19 @@ export default function Footer() {
             <ul>
               <li>
                 <span className="fas fa-phone me-2"></span>
-                <span className="underneath-text">+375 29 838 87 45</span>
+                <span className="underneath-text">
+                  <a href="tel:29-838-87-45" style={{ fontWeight: 500 }}>
+                    +375 (29) 838-87-45
+                  </a>
+                </span>
               </li>
               <li>
                 <span className="fas fa-envelope me-2"></span>
-                <span className="underneath-text">b1on1kkk@mail.ru</span>
+                <span className="underneath-text">
+                  <a href="mailto: alex.sinyak.job@mail.ru">
+                    alex.sinyak.job@mail.ru
+                  </a>
+                </span>
               </li>
               <li>
                 <span className="fas fa-map-marker me-2"></span>

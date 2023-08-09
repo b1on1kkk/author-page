@@ -35,7 +35,14 @@ export default function AboutComponent() {
               </div>
               <div className="biography-about-data-ditailed-info">
                 <span>Mail:</span>
-                <p style={{ fontWeight: 500 }}>b1on1kkk@mail.ru</p>
+                <p>
+                  <a
+                    href="mailto: alex.sinyak.job@mail.ru"
+                    style={{ fontWeight: 500 }}
+                  >
+                    alex.sinyak.job@mail.ru
+                  </a>
+                </p>
               </div>
               <div
                 className="biography-about-data-ditailed-info"
@@ -43,7 +50,11 @@ export default function AboutComponent() {
               >
                 <div>
                   <span>{t("more_about.phone_number")}</span>
-                  <p style={{ fontWeight: 500 }}>+375298388745</p>
+                  <p>
+                    <a href="tel:29-838-87-45" style={{ fontWeight: 500 }}>
+                      +375 (29) 838-87-45
+                    </a>
+                  </p>
                 </div>
               </div>
             </div>

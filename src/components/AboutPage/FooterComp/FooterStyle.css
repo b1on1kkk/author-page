@@ -114,7 +114,8 @@ footer {
   }
 }
 
-.underneath-text {
+.underneath-text,
+.underneath-text a {
   color: white;
 }
 
