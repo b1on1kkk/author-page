@@ -99,7 +99,7 @@ a {
 }
 
 .header-fixed {
-  height: 150px !important;
+  height: 130px !important;
   background-color: #c9d6ff95;
 
   transition: all 0.4s ease 0s !important;

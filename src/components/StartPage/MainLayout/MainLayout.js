@@ -8,7 +8,7 @@ export default function MainLayout({
   theme,
   setTheme,
   changeLanguage,
-  setLanguageModeChanger,
+  setLanguageModeChanger
 }) {
   const [initialModalClass, setOpenModalWin] = useState(false);
 

@@ -24,12 +24,12 @@ function App() {
     lng: languageModeChanger,
     resources: {
       en: {
-        global: global_en,
+        global: global_en
       },
       ru: {
-        global: global_ru,
-      },
-    },
+        global: global_ru
+      }
+    }
   });
   //
 
