@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/author-page/static/css/main.b783bd33.css",
+    "main.js": "/author-page/static/js/main.d4cbea60.js",
+    "static/media/profilePicture.png": "/author-page/static/media/profilePicture.0bfc5d83b51e5faa9fe7.png",
+    "static/media/photo_2023-07-10_11-24-25.jpg": "/author-page/static/media/photo_2023-07-10_11-24-25.26eebff4cce0d91d1d05.jpg",
+    "static/media/about1.jpg": "/author-page/static/media/about1.6424acee15e08ae0d1af.jpg",
+    "static/media/logo-black-fotor-bg-remover-2023060722554.png": "/author-page/static/media/logo-black-fotor-bg-remover-2023060722554.21acc5634f397de1c959.png",
+    "static/media/banner.jpg": "/author-page/static/media/banner.a1be3a8ae7a8e7909ae9.jpg",
+    "static/media/logo-no-background.png": "/author-page/static/media/logo-no-background.a3fd9d0d807e283242af.png",
+    "index.html": "/author-page/index.html",
+    "main.b783bd33.css.map": "/author-page/static/css/main.b783bd33.css.map",
+    "main.d4cbea60.js.map": "/author-page/static/js/main.d4cbea60.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b783bd33.css",
+    "static/js/main.d4cbea60.js"
+  ]
+}
