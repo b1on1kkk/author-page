@@ -232,10 +232,6 @@
 
 @media (max-width: 1400px) {
   .skills-ul-wrapper {
-    /* display: grid;
-    grid-template-columns: 1fr 1fr;
-    grid-gap: 10px; */
-
     display: grid;
     grid-template-columns: repeat(5, 1fr);
     grid-template-rows: repeat(5, 1fr);

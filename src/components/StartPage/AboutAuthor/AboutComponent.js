@@ -37,7 +37,7 @@ export default function AboutComponent() {
                 <span>Mail:</span>
                 <p>
                   <a
-                    href="mailto: alex.sinyak.job@mail.ru"
+                    href="mailto: alexsinyak05@gmail.com"
                     style={{ fontWeight: 500 }}
                   >
                     alexsinyak05@gmail.com
