@@ -40,7 +40,7 @@ export default function AboutComponent() {
                     href="mailto: alex.sinyak.job@mail.ru"
                     style={{ fontWeight: 500 }}
                   >
-                    alex.sinyak.job@mail.ru
+                    alexsinyak05@gmail.com
                   </a>
                 </p>
               </div>

@@ -54,9 +54,6 @@
     align-items: center;
     justify-content: center;
   }
-  /* .skills-block-picture img {
-    width: 500px;
-  } */
 
   .skills-block-picture {
     display: flex;
@@ -226,14 +223,24 @@
   list-style: none;
   margin: 0px;
   padding: 0px;
-
-  display: flex;
+  display: grid;
+  grid-template-columns: repeat(5, 1fr);
+  grid-template-rows: repeat(5, 1fr);
+  grid-column-gap: 0px;
+  grid-row-gap: 0px;
 }
 
 @media (max-width: 1400px) {
   .skills-ul-wrapper {
-    display: grid;
+    /* display: grid;
     grid-template-columns: 1fr 1fr;
+    grid-gap: 10px; */
+
+    display: grid;
+    grid-template-columns: repeat(5, 1fr);
+    grid-template-rows: repeat(5, 1fr);
+    grid-column-gap: 0px;
+    grid-row-gap: 0px;
     grid-gap: 10px;
   }
 }

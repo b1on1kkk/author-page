@@ -31,7 +31,7 @@ export default function Footer() {
                 <span className="fas fa-envelope me-2"></span>
                 <span className="underneath-text">
                   <a href="mailto: alex.sinyak.job@mail.ru">
-                    alex.sinyak.job@mail.ru
+                    alexsinyak05@gmail.com
                   </a>
                 </span>
               </li>

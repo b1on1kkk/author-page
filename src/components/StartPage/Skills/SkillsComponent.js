@@ -59,9 +59,12 @@ export default function SkillsComponent() {
                     <li>JavaScript</li>
                     <li>TypeScript</li>
                     <li>React</li>
-                    <li>C++</li>
+                    <li>Prisma</li>
                     <li>Python</li>
                     <li>MySQL</li>
+                    <li>NodeJS</li>
+                    <li>NestJS</li>
+                    <li>NextJS</li>
                   </ul>
                 </div>
               </div>
