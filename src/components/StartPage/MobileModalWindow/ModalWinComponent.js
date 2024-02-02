@@ -58,7 +58,6 @@ export default function ModalMobWindow({ openStatus }) {
   //
 
   function ModalBtnClickHandler() {
-    // console.log(document.getElementsByClassName("toggler")[0].click());
     document.querySelector(".toggler").click();
   }
 

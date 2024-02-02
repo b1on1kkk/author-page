@@ -21,7 +21,13 @@ function NavBar() {
             <h1>{t("about.title_text")}</h1>
             <div className="banner-profile-text-border"></div>
             <h2>{t("about.programming_rank")}</h2>
-            <a href="/#">{t("about.download")}</a>
+            <a
+              href="https://drive.google.com/drive/folders/1uaHlww8_urx3U3fO77iJSyR7OZRDi1eC?usp=sharing"
+              target="_blank"
+              rel="noreferrer"
+            >
+              {t("about.download")}
+            </a>
           </div>
         </div>
       </div>

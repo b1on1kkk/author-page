@@ -62,9 +62,10 @@ export default function SkillsComponent() {
                     <li>Prisma</li>
                     <li>Python</li>
                     <li>MySQL</li>
-                    <li>NodeJS</li>
-                    <li>NestJS</li>
-                    <li>NextJS</li>
+                    <li>Node JS</li>
+                    <li>Nest JS</li>
+                    <li>Next JS</li>
+                    <li>Express</li>
                   </ul>
                 </div>
               </div>

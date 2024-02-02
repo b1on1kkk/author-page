@@ -14,7 +14,7 @@ export default function MainLayout({
 
   return (
     <>
-      <ModalMobWindow openStatus={initialModalClass}></ModalMobWindow>
+      <ModalMobWindow openStatus={initialModalClass} />
       <HeaderFunction
         setOpenStatus={setOpenModalWin}
         openStatus={initialModalClass}
@@ -22,7 +22,7 @@ export default function MainLayout({
         setTheme={setTheme}
         changeLanguage={changeLanguage}
         setLanguageModeChanger={setLanguageModeChanger}
-      ></HeaderFunction>
+      />
       <Outlet></Outlet>
     </>
   );

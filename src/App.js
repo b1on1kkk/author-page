@@ -54,14 +54,14 @@ function App() {
                     theme={theme}
                     setTheme={setTheme}
                     setLanguageModeChanger={setLanguageModeChanger}
-                  ></MainLayout>
+                  />
                 }
               >
-                <Route index element={<HomePage></HomePage>}></Route>
+                <Route index element={<HomePage />} />
                 <Route
                   path="about"
                   element={<MainAboutWrapper></MainAboutWrapper>}
-                ></Route>
+                />
               </Route>
             </Routes>
           </BrowserRouter>
